@@ -11,12 +11,12 @@ The distribution shift problem induced by dynamic environments significantly deg
 
 ##  Proposed Learning Paradigms 
 
-![image](https://github.com/CHAOZHAO-1/MUGTN/blob/main/IMG1/F1.png)
+![image](https://github.com/CHAOZHAO-1/SGTA/blob/main/IMG1/F1.png)
 
 ##  Proposed Network 
 
 
-![image](https://github.com/CHAOZHAO-1/MUGTN/blob/main/IMG1/F2.png)
+![image](https://github.com/CHAOZHAO-1/SGTA/blob/main/IMG1/F2.png)
 
 ##  BibTex Citation
 
